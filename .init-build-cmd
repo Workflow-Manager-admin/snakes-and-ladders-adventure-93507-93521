@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/snakes-and-ladders-adventure-93507-93521/main_container_for_snakes_and_ladders_adventure"
+}
